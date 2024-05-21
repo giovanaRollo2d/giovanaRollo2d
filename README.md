@@ -8,7 +8,7 @@ Meu nome é Giovana Souza
 
   ### Você entra em contato comigo 📧
 
-  giovanasassis07@gmail
+  giovanasassis07@gmail.com
 
   @souza_giih___
 
