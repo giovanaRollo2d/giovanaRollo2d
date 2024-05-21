@@ -2,8 +2,8 @@
 
 Meu nome é Giovana Souza
 
-- Estou estudando na [Alura] (https://www.alura.com.br)
-- estou me desenvolvendo na linguagem JavaScript
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha oraganização e ompartilhamento fdos meus projetos desenvolvidos
 
   ### Você entra em contato comigo 📧
