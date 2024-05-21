@@ -1,16 +1,18 @@
-### Hi there 👋
+### Bem vindo ao meu perfil😻
 
-<!--
-**giovanaRollo2d/giovanaRollo2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Giovana Souza
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura] (https://www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha oraganização e ompartilhamento fdos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entra em contato comigo 📧
+
+  giovanasassis07@gmail
+
+  @souza_giih___
+
+![]()
+ ![image](https://github.com/giovanaRollo2d/giovanaRollo2d/assets/169807422/544afe2a-b205-4504-9297-1a9fbfd98852)
+ 
+  
